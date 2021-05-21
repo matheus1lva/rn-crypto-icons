@@ -1,14 +1,14 @@
 
-# rn-cryptocurrency-icons
+# rn-crypto-icons
 
 ![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green)
-[![NPM Badge](https://img.shields.io/npm/v/rn-cryptocurrency-icons)](https://badge.fury.io/js/rn-cryptocurrency-icons)
+[![NPM Badge](https://img.shields.io/npm/v/rn-crypto-icons)](https://badge.fury.io/js/rn-crypto-icons)
 
 React Native component that displays an icon for a given cryptocurrency symbol.
 
 <p align="center" >
   <img
-    src="https://github.com/iamlucnguyen/rn-cryptocurrency-icons/raw/master/assets/images/preview.png"
+    src="https://github.com/iamlucnguyen/rn-crypto-icons/raw/master/assets/images/preview.png"
     alt="Preview"
   />
 </p>
@@ -19,13 +19,13 @@ React Native component that displays an icon for a given cryptocurrency symbol.
 
 2.
   ```
-  $ npm install rn-cryptocurrency-icons
+  $ npm install rn-crypto-icons
   ```
 
   or
 
   ```
-  $ yarn add rn-cryptocurrency-icons
+  $ yarn add rn-crypto-icons
   ```
 
 ### Android
@@ -42,7 +42,7 @@ Install the pod, then rebuild the app.
 ## Usage
 
 ```js
-import CryptocurrencyIcon from "rn-cryptocurrency-icons"
+import CryptocurrencyIcon from "rn-crypto-icons"
 
 .........
 
