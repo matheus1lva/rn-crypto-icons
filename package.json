@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cryptocurrency-icons",
+  "name": "rn-cryptocurrency-icons",
   "version": "1.0.0",
   "description": "React Native component that displays an icon for a given cryptocurrency symbol.",
   "main": "lib/index.js",
